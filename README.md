@@ -1,3 +1,2 @@
 # gitskills
-add ssss
-add branch
+Creating a new branch is quick AND simple.
